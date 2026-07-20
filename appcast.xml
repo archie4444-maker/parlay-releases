@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Parlay Updates</title>
+    <link>https://raw.githubusercontent.com/archie4444-maker/parlay-releases/main/appcast.xml</link>
+    <description>Parlay app updates (signed DMGs). Artifacts and this feed only — no source.</description>
+    <language>en</language>
+    <item>
+      <title>Parlay 0.2.0</title>
+      <pubDate>Mon, 20 Jul 2026 19:48:34 +0000</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/archie4444-maker/parlay-releases/releases/download/v0.2.0-48/Parlay-0.2.0-fa05e53.dmg"
+        length="10110649"
+        type="application/octet-stream"
+        sparkle:edSignature="c12JC8r92A5dwr1BU+L5rx7yRyHhxznC+d8mTPNYzyFHq4maY++e0jD55BIP3Nv7JVqJJ/TYsDEWh00lXGCSAQ=="/>
+    </item>
+  </channel>
+</rss>
