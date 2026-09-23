@@ -6,16 +6,16 @@
     <description>Parlay app updates (signed DMGs). Artifacts and this feed only — no source.</description>
     <language>en</language>
     <item>
-      <title>Parlay 0.2.8</title>
-      <pubDate>Mon, 14 Sep 2026 21:23:50 +0000</pubDate>
-      <sparkle:version>57</sparkle:version>
-      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <title>Parlay 0.2.9</title>
+      <pubDate>Wed, 23 Sep 2026 08:18:31 +0000</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/archie4444-maker/parlay-releases/releases/download/v0.2.8-57/Parlay-0.2.8-7a33776.dmg"
-        length="10314340"
+        url="https://github.com/archie4444-maker/parlay-releases/releases/download/v0.2.9-58/Parlay-0.2.9-dd65da7.dmg"
+        length="10158712"
         type="application/octet-stream"
-        sparkle:edSignature="4PMwZYpV9kbxfaglyvCSalDiPxloSyPVYvwp/MjaVHNQq5Y24NmJWrI35JfrmP+rSeygHjn5QpJX05+W/HSYAg=="/>
+        sparkle:edSignature="kPEBHEIUZzu98JBPaspDgJa/mtMSm92v/WGp6Yh2GdtfimvIISkTp/21b9yUa8H37mKWA2BAk/7ke+S7QNoOBg=="/>
     </item>
   </channel>
 </rss>
